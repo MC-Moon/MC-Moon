@@ -2,4 +2,4 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/ROS-007396?style=flat-square&logo=ROS&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 
 [![MC-Moon's GitHub stats](https://github-readme-stats.vercel.app/api?username=MC-Moon&count_private=true&show_icons=true&theme=algolia&include_orgs=true)](https://github.com/MC-Moon)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MC-Moon&layout=compact&theme=algolia)](https://github.com/MC-Moon)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MC-Moon&layout=donut&theme=algolia)](https://github.com/MC-Moon)
